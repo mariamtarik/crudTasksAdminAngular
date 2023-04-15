@@ -1,0 +1,36 @@
+{
+    "tasks":{
+        "addTask":"اضافه مهمة",
+        "complete":"مكتمل",
+        "SearchTitle":"ابحث بالعنوان",
+        "ByUser":"باسم المستخدم",
+        "Status":"الحاله",
+        "daterange":"متوسط التاريخ",
+        "Img":"الصوره",
+"Title":"العنوان",
+"User":"المستخدم",
+"DeadLineDate":"معاد التسليم",
+"Update":"تعديل",
+"Delete":"حذف",
+"Close":"اغلاق",
+"Create":"انشاء",
+"Description":"وصف",
+"SelectImage":"اختار صوره",
+"add":"اضافه مهمه جديده"
+    },
+    "users":{
+        "Login":"تسجيل الدخول",
+        "Email":"الايميل",
+        "Password":"كلمة السر",
+        "Asignedtasks":"التاسكات الخاصه بك",
+        "Name":"الاسم",
+        "No":".الرقم",
+        "search":"ابحث"
+    },
+    "general":{
+        "loading":"انتظار",
+        "All-Tasks":"جميع-التاسكات",
+        "Users":"المستحدمين",
+        "logout":"تسجيل الخروج"
+    }
+}

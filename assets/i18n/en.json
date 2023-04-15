@@ -1,0 +1,40 @@
+{
+    "tasks":{
+"addTask":"Add Task",
+"complete":"complete",
+"SearchTitle":"Search Title",
+"ByUser":"By User",
+"Status":"Status",
+"daterange":"date range",
+"Img":"Img",
+"Title":"Title",
+"User":"User",
+"DeadLineDate":"DeadLine Date",
+"Update":"Update",
+"Delete":"Delete",
+"Close":"Close",
+"Create":"Create",
+"Description":"Description",
+"SelectImage":"Select Image",
+"add":"Add New Task"
+
+
+    },
+    "users":{
+        "Login":"Login",
+"Email":"Email",
+"Password":"Password",
+"Asignedtasks":"Asigned tasks",
+"Name":"Name",
+"No":"No.",
+"search":"Search"
+
+
+    },
+    "general":{
+        "loading":"loading",
+        "All-Tasks":"All-Tasks ",
+        "Users":"Users",
+        "logout":"LogOut"
+    }
+}
